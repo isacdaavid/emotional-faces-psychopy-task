@@ -1,0 +1,710 @@
+374.8585 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([-1., -1., -1.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x09D66EB0>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0AF890B0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([800, 600]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+374.8586 	EXP 	window1: recordFrameIntervals = False
+375.0131 	EXP 	window1: recordFrameIntervals = True
+375.1856 	EXP 	window1: recordFrameIntervals = False
+375.7281 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+375.7555 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+375.7975 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+375.8175 	EXP 	Created polygon_3 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineWidth=1, name='polygon_3', opacity=0.2, ori=array(0.), pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+375.8190 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineWidth=1, name='polygon', opacity=0.2, ori=array(0.), pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+375.8272 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8295 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8315 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8336 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8356 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8376 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8397 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8418 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8438 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8459 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='height', win=Window(...))
+375.8476 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineWidth=1, name='polygon', opacity=0.2, ori=array(0.), pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+375.8487 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, autoDraw=False, autoLog=True, closeShape=True, contrast=1.0, depth=0.0, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineWidth=1, name='polygon_2', opacity=0.0, ori=array(0.), pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+375.8727 	EXP 	text: autoDraw = True
+390.8570 	EXP 	text: autoDraw = False
+390.8570 	EXP 	text: autoDraw = False
+390.8570 	EXP 	text_2: autoDraw = True
+405.8572 	EXP 	text_2: autoDraw = False
+405.8572 	EXP 	text_2: autoDraw = False
+405.8572 	EXP 	text_3: autoDraw = True
+420.8565 	EXP 	text_3: autoDraw = False
+420.8565 	EXP 	text_3: autoDraw = False
+420.8565 	EXP 	polygon_3: autoDraw = True
+440.4676 	DATA 	Keypress: s
+440.4907 	EXP 	Imported blank.csv as conditions, 10 conditions, 2 params
+440.4914 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+440.4920 	EXP 	New trial (rep=0, index=0): OrderedDict([('x', -0.2), ('y', -0.2)])
+440.5135 	EXP 	polygon_3: autoDraw = False
+440.5135 	EXP 	polygon: pos = array([-0.2, -0.2])
+440.5135 	EXP 	polygon: autoDraw = True
+443.4843 	EXP 	New trial (rep=0, index=1): OrderedDict([('x', 0.4), ('y', 0.4)])
+443.4983 	EXP 	polygon: autoDraw = False
+443.4983 	EXP 	polygon: pos = array([0.4, 0.4])
+443.4983 	EXP 	polygon: autoDraw = True
+443.8113 	DATA 	Keypress: b
+444.0459 	DATA 	Keypress: b
+444.4832 	DATA 	Keypress: c
+446.4845 	EXP 	New trial (rep=0, index=2): OrderedDict([('x', -0.4), ('y', 0.0)])
+446.4983 	EXP 	polygon: autoDraw = False
+446.4983 	EXP 	polygon: pos = array([-0.4,  0. ])
+446.4983 	EXP 	polygon: autoDraw = True
+446.8114 	DATA 	Keypress: b
+447.0460 	DATA 	Keypress: b
+449.4843 	EXP 	New trial (rep=0, index=3): OrderedDict([('x', 0.0), ('y', 0.4)])
+449.4983 	EXP 	polygon: autoDraw = False
+449.4983 	EXP 	polygon: pos = array([0. , 0.4])
+449.4983 	EXP 	polygon: autoDraw = True
+449.8583 	DATA 	Keypress: c
+452.4843 	EXP 	New trial (rep=0, index=4): OrderedDict([('x', 0.2), ('y', 0.0)])
+452.4984 	EXP 	polygon: autoDraw = False
+452.4984 	EXP 	polygon: pos = array([0.2, 0. ])
+452.4984 	EXP 	polygon: autoDraw = True
+452.9208 	DATA 	Keypress: b
+453.1241 	DATA 	Keypress: b
+455.4844 	EXP 	New trial (rep=0, index=5): OrderedDict([('x', 0.2), ('y', -0.4)])
+455.4984 	EXP 	polygon: autoDraw = False
+455.4984 	EXP 	polygon: pos = array([ 0.2, -0.4])
+455.4984 	EXP 	polygon: autoDraw = True
+455.8115 	DATA 	Keypress: c
+458.4842 	EXP 	New trial (rep=0, index=6): OrderedDict([('x', 0.0), ('y', 0.2)])
+458.4984 	EXP 	polygon: autoDraw = False
+458.4984 	EXP 	polygon: pos = array([0. , 0.2])
+458.4984 	EXP 	polygon: autoDraw = True
+458.8271 	DATA 	Keypress: b
+459.0303 	DATA 	Keypress: b
+461.4842 	EXP 	New trial (rep=0, index=7): OrderedDict([('x', -0.2), ('y', -0.4)])
+461.4984 	EXP 	polygon: autoDraw = False
+461.4984 	EXP 	polygon: pos = array([-0.2, -0.4])
+461.4984 	EXP 	polygon: autoDraw = True
+461.7959 	DATA 	Keypress: c
+464.4842 	EXP 	New trial (rep=0, index=8): OrderedDict([('x', -0.4), ('y', 0.2)])
+464.4984 	EXP 	polygon: autoDraw = False
+464.4984 	EXP 	polygon: pos = array([-0.4,  0.2])
+464.4984 	EXP 	polygon: autoDraw = True
+464.8116 	DATA 	Keypress: b
+465.0305 	DATA 	Keypress: b
+467.4845 	EXP 	New trial (rep=0, index=9): OrderedDict([('x', 0.4), ('y', -0.2)])
+467.4985 	EXP 	polygon: autoDraw = False
+467.4985 	EXP 	polygon: pos = array([ 0.4, -0.2])
+467.4985 	EXP 	polygon: autoDraw = True
+467.8586 	DATA 	Keypress: c
+470.5010 	EXP 	Imported scrambled.csv as conditions, 10 conditions, 2 params
+470.5019 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+470.5028 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/021c.tif'), ('gender', 'm')])
+470.5699 	EXP 	polygon: autoDraw = False
+470.5699 	EXP 	image_5: image = 'POFA/fMRI_POFA/021c.tif'
+470.5699 	EXP 	image_5: autoDraw = True
+471.4054 	DATA 	Keypress: b
+471.6088 	DATA 	Keypress: b
+473.4850 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033c.tif'), ('gender', 'm')])
+473.5607 	EXP 	image_5: autoDraw = False
+473.5607 	EXP 	image_5: image = 'POFA/fMRI_POFA/033c.tif'
+473.5607 	EXP 	image_5: autoDraw = True
+473.9992 	DATA 	Keypress: c
+476.4846 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/083c.tif'), ('gender', 'm')])
+476.5448 	EXP 	image_5: autoDraw = False
+476.5448 	EXP 	image_5: image = 'POFA/fMRI_POFA/083c.tif'
+476.5448 	EXP 	image_5: autoDraw = True
+476.8430 	DATA 	Keypress: b
+477.0619 	DATA 	Keypress: b
+479.4846 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/021c.tif'), ('gender', 'm')])
+479.5448 	EXP 	image_5: autoDraw = False
+479.5448 	EXP 	image_5: image = 'POFA/fMRI_POFA/021c.tif'
+479.5448 	EXP 	image_5: autoDraw = True
+479.8586 	DATA 	Keypress: c
+482.4847 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033c.tif'), ('gender', 'm')])
+482.5449 	EXP 	image_5: autoDraw = False
+482.5449 	EXP 	image_5: image = 'POFA/fMRI_POFA/033c.tif'
+482.5449 	EXP 	image_5: autoDraw = True
+482.8274 	DATA 	Keypress: b
+483.0777 	DATA 	Keypress: b
+485.4847 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/006c.tif'), ('gender', 'f')])
+485.5449 	EXP 	image_5: autoDraw = False
+485.5449 	EXP 	image_5: image = 'POFA/fMRI_POFA/006c.tif'
+485.5449 	EXP 	image_5: autoDraw = True
+485.8430 	DATA 	Keypress: c
+488.4848 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/013c.tif'), ('gender', 'f')])
+488.5449 	EXP 	image_5: autoDraw = False
+488.5449 	EXP 	image_5: image = 'POFA/fMRI_POFA/013c.tif'
+488.5449 	EXP 	image_5: autoDraw = True
+488.7806 	DATA 	Keypress: b
+488.9996 	DATA 	Keypress: b
+491.4848 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/006c.tif'), ('gender', 'f')])
+491.5450 	EXP 	image_5: autoDraw = False
+491.5450 	EXP 	image_5: image = 'POFA/fMRI_POFA/006c.tif'
+491.5450 	EXP 	image_5: autoDraw = True
+491.8745 	DATA 	Keypress: c
+494.4850 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/013c.tif'), ('gender', 'f')])
+494.5450 	EXP 	image_5: autoDraw = False
+494.5450 	EXP 	image_5: image = 'POFA/fMRI_POFA/013c.tif'
+494.5450 	EXP 	image_5: autoDraw = True
+494.8119 	DATA 	Keypress: b
+495.0465 	DATA 	Keypress: b
+497.4849 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/072c.tif'), ('gender', 'f')])
+497.5450 	EXP 	image_5: autoDraw = False
+497.5450 	EXP 	image_5: image = 'POFA/fMRI_POFA/072c.tif'
+497.5450 	EXP 	image_5: autoDraw = True
+497.9055 	DATA 	Keypress: c
+500.5009 	EXP 	Imported happy.csv as conditions, 10 conditions, 2 params
+500.5020 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+500.5029 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/048a.tif'), ('gender', 'f')])
+500.5923 	EXP 	image_5: autoDraw = False
+500.5923 	EXP 	image: image = 'POFA/fMRI_POFA/048a.tif'
+500.5923 	EXP 	image: autoDraw = True
+500.8433 	DATA 	Keypress: b
+501.0934 	DATA 	Keypress: b
+503.4853 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/007a.tif'), ('gender', 'f')])
+503.5763 	EXP 	image: autoDraw = False
+503.5763 	EXP 	image: image = 'POFA/fMRI_POFA/007a.tif'
+503.5763 	EXP 	image: autoDraw = True
+504.2183 	DATA 	Keypress: c
+506.4849 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/093a.tif'), ('gender', 'f')])
+506.5608 	EXP 	image: autoDraw = False
+506.5608 	EXP 	image: image = 'POFA/fMRI_POFA/093a.tif'
+506.5608 	EXP 	image: autoDraw = True
+507.2183 	DATA 	Keypress: c
+509.4849 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/066a.tif'), ('gender', 'f')])
+509.5452 	EXP 	image: autoDraw = False
+509.5452 	EXP 	image: image = 'POFA/fMRI_POFA/066a.tif'
+509.5452 	EXP 	image: autoDraw = True
+510.4839 	DATA 	Keypress: c
+512.4850 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/057a.tif'), ('gender', 'f')])
+512.5452 	EXP 	image: autoDraw = False
+512.5452 	EXP 	image: image = 'POFA/fMRI_POFA/057a.tif'
+512.5452 	EXP 	image: autoDraw = True
+513.3590 	DATA 	Keypress: c
+515.4850 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/042a.tif'), ('gender', 'f')])
+515.5387 	EXP 	image: autoDraw = False
+515.5387 	EXP 	image: image = 'POFA/fMRI_POFA/042a.tif'
+515.5387 	EXP 	image: autoDraw = True
+516.3122 	DATA 	Keypress: c
+518.4851 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/014a.tif'), ('gender', 'm')])
+518.5610 	EXP 	image: autoDraw = False
+518.5610 	EXP 	image: image = 'POFA/fMRI_POFA/014a.tif'
+518.5610 	EXP 	image: autoDraw = True
+519.3590 	DATA 	Keypress: b
+519.5779 	DATA 	Keypress: b
+521.4851 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/101a.tif'), ('gender', 'm')])
+521.5453 	EXP 	image: autoDraw = False
+521.5453 	EXP 	image: image = 'POFA/fMRI_POFA/101a.tif'
+521.5453 	EXP 	image: autoDraw = True
+522.4529 	DATA 	Keypress: b
+522.6874 	DATA 	Keypress: b
+524.4851 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/001a.tif'), ('gender', 'f')])
+524.5453 	EXP 	image: autoDraw = False
+524.5453 	EXP 	image: image = 'POFA/fMRI_POFA/001a.tif'
+524.5453 	EXP 	image: autoDraw = True
+525.2344 	DATA 	Keypress: c
+527.4852 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/084a.tif'), ('gender', 'f')])
+527.5454 	EXP 	image: autoDraw = False
+527.5454 	EXP 	image: image = 'POFA/fMRI_POFA/084a.tif'
+527.5454 	EXP 	image: autoDraw = True
+528.3123 	DATA 	Keypress: c
+530.5012 	EXP 	Imported sad.csv as conditions, 10 conditions, 2 params
+530.5022 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+530.5031 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/002a.tif'), ('gender', 'f')])
+530.5613 	EXP 	image: autoDraw = False
+530.5613 	EXP 	image_2: image = 'POFA/fMRI_POFA/002a.tif'
+530.5613 	EXP 	image_2: autoDraw = True
+531.2811 	DATA 	Keypress: c
+533.4857 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/067a.tif'), ('gender', 'f')])
+533.5454 	EXP 	image_2: autoDraw = False
+533.5454 	EXP 	image_2: image = 'POFA/fMRI_POFA/067a.tif'
+533.5454 	EXP 	image_2: autoDraw = True
+534.2187 	DATA 	Keypress: c
+536.4853 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/094a.tif'), ('gender', 'f')])
+536.5457 	EXP 	image_2: autoDraw = False
+536.5457 	EXP 	image_2: image = 'POFA/fMRI_POFA/094a.tif'
+536.5457 	EXP 	image_2: autoDraw = True
+537.0937 	DATA 	Keypress: c
+539.4853 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/049a.tif'), ('gender', 'f')])
+539.5611 	EXP 	image_2: autoDraw = False
+539.5611 	EXP 	image_2: image = 'POFA/fMRI_POFA/049a.tif'
+539.5611 	EXP 	image_2: autoDraw = True
+540.2187 	DATA 	Keypress: c
+542.4854 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/023a.tif'), ('gender', 'm')])
+542.5455 	EXP 	image_2: autoDraw = False
+542.5455 	EXP 	image_2: image = 'POFA/fMRI_POFA/023a.tif'
+542.5455 	EXP 	image_2: autoDraw = True
+543.1562 	DATA 	Keypress: b
+543.4063 	DATA 	Keypress: b
+545.4850 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/008a.tif'), ('gender', 'f')])
+545.5456 	EXP 	image_2: autoDraw = False
+545.5456 	EXP 	image_2: image = 'POFA/fMRI_POFA/008a.tif'
+545.5456 	EXP 	image_2: autoDraw = True
+546.1719 	DATA 	Keypress: c
+548.4698 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/086a.tif'), ('gender', 'f')])
+548.5300 	EXP 	image_2: autoDraw = False
+548.5300 	EXP 	image_2: image = 'POFA/fMRI_POFA/086a.tif'
+548.5300 	EXP 	image_2: autoDraw = True
+549.1875 	DATA 	Keypress: c
+551.4698 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/058a.tif'), ('gender', 'f')])
+551.5456 	EXP 	image_2: autoDraw = False
+551.5456 	EXP 	image_2: image = 'POFA/fMRI_POFA/058a.tif'
+551.5456 	EXP 	image_2: autoDraw = True
+552.3439 	DATA 	Keypress: c
+554.4698 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/015a.tif'), ('gender', 'm')])
+554.5457 	EXP 	image_2: autoDraw = False
+554.5457 	EXP 	image_2: image = 'POFA/fMRI_POFA/015a.tif'
+554.5457 	EXP 	image_2: autoDraw = True
+555.2344 	DATA 	Keypress: b
+555.4846 	DATA 	Keypress: b
+557.4696 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033a-sad.tif'), ('gender', 'm')])
+557.5457 	EXP 	image_2: autoDraw = False
+557.5457 	EXP 	image_2: image = 'POFA/fMRI_POFA/033a-sad.tif'
+557.5457 	EXP 	image_2: autoDraw = True
+558.1251 	DATA 	Keypress: b
+558.3753 	DATA 	Keypress: b
+560.4846 	EXP 	Imported angry.csv as conditions, 10 conditions, 2 params
+560.4851 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+560.4857 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/069a.tif'), ('gender', 'f')])
+560.5233 	EXP 	image_2: autoDraw = False
+560.5233 	EXP 	image_3: image = 'POFA/fMRI_POFA/069a.tif'
+560.5233 	EXP 	image_3: autoDraw = True
+561.1565 	DATA 	Keypress: c
+563.4703 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/061a.tif'), ('gender', 'f')])
+563.5501 	EXP 	image_3: autoDraw = False
+563.5501 	EXP 	image_3: image = 'POFA/fMRI_POFA/061a.tif'
+563.5501 	EXP 	image_3: autoDraw = True
+564.2659 	DATA 	Keypress: c
+566.4699 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/010a.tif'), ('gender', 'f')])
+566.5622 	EXP 	image_3: autoDraw = False
+566.5622 	EXP 	image_3: image = 'POFA/fMRI_POFA/010a.tif'
+566.5622 	EXP 	image_3: autoDraw = True
+567.1878 	DATA 	Keypress: c
+569.4700 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/030a.tif'), ('gender', 'm')])
+569.5105 	EXP 	image_3: autoDraw = False
+569.5105 	EXP 	image_3: image = 'POFA/fMRI_POFA/030a.tif'
+569.5105 	EXP 	image_3: autoDraw = True
+570.3452 	DATA 	Keypress: b
+570.6099 	DATA 	Keypress: b
+572.4700 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/038a.tif'), ('gender', 'm')])
+572.5459 	EXP 	image_3: autoDraw = False
+572.5459 	EXP 	image_3: image = 'POFA/fMRI_POFA/038a.tif'
+572.5459 	EXP 	image_3: autoDraw = True
+573.3754 	DATA 	Keypress: b
+573.6099 	DATA 	Keypress: b
+575.4701 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/003a.tif'), ('gender', 'f')])
+575.5463 	EXP 	image_3: autoDraw = False
+575.5463 	EXP 	image_3: image = 'POFA/fMRI_POFA/003a.tif'
+575.5463 	EXP 	image_3: autoDraw = True
+576.2348 	DATA 	Keypress: c
+578.4701 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/044a.tif'), ('gender', 'f')])
+578.5306 	EXP 	image_3: autoDraw = False
+578.5306 	EXP 	image_3: image = 'POFA/fMRI_POFA/044a.tif'
+578.5306 	EXP 	image_3: autoDraw = True
+579.2973 	DATA 	Keypress: c
+581.4703 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/025a.tif'), ('gender', 'm')])
+581.5308 	EXP 	image_3: autoDraw = False
+581.5308 	EXP 	image_3: image = 'POFA/fMRI_POFA/025a.tif'
+581.5308 	EXP 	image_3: autoDraw = True
+582.2974 	DATA 	Keypress: b
+582.5473 	DATA 	Keypress: b
+584.4702 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/018a.tif'), ('gender', 'm')])
+584.5305 	EXP 	image_3: autoDraw = False
+584.5305 	EXP 	image_3: image = 'POFA/fMRI_POFA/018a.tif'
+584.5305 	EXP 	image_3: autoDraw = True
+585.2349 	DATA 	Keypress: b
+585.4537 	DATA 	Keypress: b
+587.4702 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/053a.tif'), ('gender', 'f')])
+587.5312 	EXP 	image_3: autoDraw = False
+587.5312 	EXP 	image_3: image = 'POFA/fMRI_POFA/053a.tif'
+587.5312 	EXP 	image_3: autoDraw = True
+588.2349 	DATA 	Keypress: c
+590.4850 	EXP 	Imported neutral.csv as conditions, 10 conditions, 2 params
+590.4856 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+590.4862 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/006a.tif'), ('gender', 'f')])
+590.5307 	EXP 	image_3: autoDraw = False
+590.5307 	EXP 	image_4: image = 'POFA/fMRI_POFA/006a.tif'
+590.5307 	EXP 	image_4: autoDraw = True
+591.1879 	DATA 	Keypress: c
+593.4706 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/056a.tif'), ('gender', 'f')])
+593.5462 	EXP 	image_4: autoDraw = False
+593.5462 	EXP 	image_4: image = 'POFA/fMRI_POFA/056a.tif'
+593.5462 	EXP 	image_4: autoDraw = True
+594.5162 	DATA 	Keypress: c
+596.4703 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/021a.tif'), ('gender', 'm')])
+596.5621 	EXP 	image_4: autoDraw = False
+596.5621 	EXP 	image_4: image = 'POFA/fMRI_POFA/021a.tif'
+596.5621 	EXP 	image_4: autoDraw = True
+597.3453 	DATA 	Keypress: b
+597.5789 	DATA 	Keypress: b
+599.4703 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/028a.tif'), ('gender', 'm')])
+599.5307 	EXP 	image_4: autoDraw = False
+599.5307 	EXP 	image_4: image = 'POFA/fMRI_POFA/028a.tif'
+599.5307 	EXP 	image_4: autoDraw = True
+600.2507 	DATA 	Keypress: b
+600.4695 	DATA 	Keypress: b
+602.4703 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/047a.tif'), ('gender', 'f')])
+602.5313 	EXP 	image_4: autoDraw = False
+602.5313 	EXP 	image_4: image = 'POFA/fMRI_POFA/047a.tif'
+602.5313 	EXP 	image_4: autoDraw = True
+603.5007 	DATA 	Keypress: c
+605.4704 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/013a.tif'), ('gender', 'f')])
+605.5314 	EXP 	image_4: autoDraw = False
+605.5314 	EXP 	image_4: image = 'POFA/fMRI_POFA/013a.tif'
+605.5314 	EXP 	image_4: autoDraw = True
+606.1569 	DATA 	Keypress: c
+608.4704 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/041a.tif'), ('gender', 'm')])
+608.5308 	EXP 	image_4: autoDraw = False
+608.5308 	EXP 	image_4: image = 'POFA/fMRI_POFA/041a.tif'
+608.5308 	EXP 	image_4: autoDraw = True
+609.2662 	DATA 	Keypress: b
+609.4696 	DATA 	Keypress: b
+611.4705 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033a.tif'), ('gender', 'm')])
+611.5308 	EXP 	image_4: autoDraw = False
+611.5308 	EXP 	image_4: image = 'POFA/fMRI_POFA/033a.tif'
+611.5308 	EXP 	image_4: autoDraw = True
+612.1256 	DATA 	Keypress: b
+612.3453 	DATA 	Keypress: b
+614.4703 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/072a.tif'), ('gender', 'f')])
+614.5313 	EXP 	image_4: autoDraw = False
+614.5313 	EXP 	image_4: image = 'POFA/fMRI_POFA/072a.tif'
+614.5313 	EXP 	image_4: autoDraw = True
+615.2662 	DATA 	Keypress: c
+617.4703 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/083a.tif'), ('gender', 'm')])
+617.5308 	EXP 	image_4: autoDraw = False
+617.5308 	EXP 	image_4: image = 'POFA/fMRI_POFA/083a.tif'
+617.5308 	EXP 	image_4: autoDraw = True
+618.2196 	DATA 	Keypress: b
+618.4851 	DATA 	Keypress: b
+620.4855 	EXP 	Imported happy.csv as conditions, 10 conditions, 2 params
+620.4861 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+620.4866 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/042a.tif'), ('gender', 'f')])
+620.5152 	EXP 	image_4: autoDraw = False
+620.5152 	EXP 	image: image = 'POFA/fMRI_POFA/042a.tif'
+620.5152 	EXP 	image: autoDraw = True
+621.1258 	DATA 	Keypress: c
+623.4708 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/001a.tif'), ('gender', 'f')])
+623.5152 	EXP 	image: autoDraw = False
+623.5152 	EXP 	image: image = 'POFA/fMRI_POFA/001a.tif'
+623.5152 	EXP 	image: autoDraw = True
+624.2979 	DATA 	Keypress: c
+626.4706 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/014a.tif'), ('gender', 'm')])
+626.5153 	EXP 	image: autoDraw = False
+626.5153 	EXP 	image: image = 'POFA/fMRI_POFA/014a.tif'
+626.5153 	EXP 	image: autoDraw = True
+627.2665 	DATA 	Keypress: b
+627.4699 	DATA 	Keypress: b
+629.4707 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/093a.tif'), ('gender', 'f')])
+629.5153 	EXP 	image: autoDraw = False
+629.5153 	EXP 	image: image = 'POFA/fMRI_POFA/093a.tif'
+629.5153 	EXP 	image: autoDraw = True
+630.1416 	DATA 	Keypress: c
+632.4707 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/101a.tif'), ('gender', 'm')])
+632.5153 	EXP 	image: autoDraw = False
+632.5153 	EXP 	image: image = 'POFA/fMRI_POFA/101a.tif'
+632.5153 	EXP 	image: autoDraw = True
+633.1103 	DATA 	Keypress: b
+633.3451 	DATA 	Keypress: b
+635.4707 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/084a.tif'), ('gender', 'f')])
+635.5153 	EXP 	image: autoDraw = False
+635.5153 	EXP 	image: image = 'POFA/fMRI_POFA/084a.tif'
+635.5153 	EXP 	image: autoDraw = True
+636.1573 	DATA 	Keypress: c
+638.4707 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/066a.tif'), ('gender', 'f')])
+638.5154 	EXP 	image: autoDraw = False
+638.5154 	EXP 	image: image = 'POFA/fMRI_POFA/066a.tif'
+638.5154 	EXP 	image: autoDraw = True
+639.2511 	DATA 	Keypress: c
+641.4708 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/048a.tif'), ('gender', 'f')])
+641.5154 	EXP 	image: autoDraw = False
+641.5154 	EXP 	image: image = 'POFA/fMRI_POFA/048a.tif'
+641.5154 	EXP 	image: autoDraw = True
+642.0949 	DATA 	Keypress: c
+644.4709 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/007a.tif'), ('gender', 'f')])
+644.5155 	EXP 	image: autoDraw = False
+644.5155 	EXP 	image: image = 'POFA/fMRI_POFA/007a.tif'
+644.5155 	EXP 	image: autoDraw = True
+645.1574 	DATA 	Keypress: c
+647.4709 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/057a.tif'), ('gender', 'f')])
+647.5155 	EXP 	image: autoDraw = False
+647.5155 	EXP 	image: image = 'POFA/fMRI_POFA/057a.tif'
+647.5155 	EXP 	image: autoDraw = True
+648.1261 	DATA 	Keypress: c
+650.4873 	EXP 	Imported sad.csv as conditions, 10 conditions, 2 params
+650.4883 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+650.4892 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/049a.tif'), ('gender', 'f')])
+650.5312 	EXP 	image: autoDraw = False
+650.5312 	EXP 	image_2: image = 'POFA/fMRI_POFA/049a.tif'
+650.5312 	EXP 	image_2: autoDraw = True
+651.2044 	DATA 	Keypress: c
+653.4713 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/067a.tif'), ('gender', 'f')])
+653.5157 	EXP 	image_2: autoDraw = False
+653.5157 	EXP 	image_2: image = 'POFA/fMRI_POFA/067a.tif'
+653.5157 	EXP 	image_2: autoDraw = True
+654.1263 	DATA 	Keypress: c
+656.4710 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/023a.tif'), ('gender', 'm')])
+656.5313 	EXP 	image_2: autoDraw = False
+656.5313 	EXP 	image_2: image = 'POFA/fMRI_POFA/023a.tif'
+656.5313 	EXP 	image_2: autoDraw = True
+657.1419 	DATA 	Keypress: b
+657.3929 	DATA 	Keypress: b
+659.4707 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/058a.tif'), ('gender', 'f')])
+659.5313 	EXP 	image_2: autoDraw = False
+659.5313 	EXP 	image_2: image = 'POFA/fMRI_POFA/058a.tif'
+659.5313 	EXP 	image_2: autoDraw = True
+660.1731 	DATA 	Keypress: c
+662.4711 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033a-sad.tif'), ('gender', 'm')])
+662.5313 	EXP 	image_2: autoDraw = False
+662.5313 	EXP 	image_2: image = 'POFA/fMRI_POFA/033a-sad.tif'
+662.5313 	EXP 	image_2: autoDraw = True
+663.2045 	DATA 	Keypress: b
+663.4392 	DATA 	Keypress: b
+665.4708 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/094a.tif'), ('gender', 'f')])
+665.5120 	EXP 	image_2: autoDraw = False
+665.5120 	EXP 	image_2: image = 'POFA/fMRI_POFA/094a.tif'
+665.5120 	EXP 	image_2: autoDraw = True
+666.1420 	DATA 	Keypress: c
+668.4712 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/086a.tif'), ('gender', 'f')])
+668.5158 	EXP 	image_2: autoDraw = False
+668.5158 	EXP 	image_2: image = 'POFA/fMRI_POFA/086a.tif'
+668.5158 	EXP 	image_2: autoDraw = True
+669.1576 	DATA 	Keypress: c
+671.4711 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/015a.tif'), ('gender', 'm')])
+671.5158 	EXP 	image_2: autoDraw = False
+671.5158 	EXP 	image_2: image = 'POFA/fMRI_POFA/015a.tif'
+671.5158 	EXP 	image_2: autoDraw = True
+672.2047 	DATA 	Keypress: b
+672.4703 	DATA 	Keypress: b
+674.4709 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/008a.tif'), ('gender', 'f')])
+674.5158 	EXP 	image_2: autoDraw = False
+674.5158 	EXP 	image_2: image = 'POFA/fMRI_POFA/008a.tif'
+674.5158 	EXP 	image_2: autoDraw = True
+675.4391 	DATA 	Keypress: c
+677.4712 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/002a.tif'), ('gender', 'f')])
+677.5159 	EXP 	image_2: autoDraw = False
+677.5159 	EXP 	image_2: image = 'POFA/fMRI_POFA/002a.tif'
+677.5159 	EXP 	image_2: autoDraw = True
+678.4078 	DATA 	Keypress: c
+680.4880 	EXP 	Imported angry.csv as conditions, 10 conditions, 2 params
+680.4889 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+680.4898 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/044a.tif'), ('gender', 'f')])
+680.5315 	EXP 	image_2: autoDraw = False
+680.5315 	EXP 	image_3: image = 'POFA/fMRI_POFA/044a.tif'
+680.5315 	EXP 	image_3: autoDraw = True
+681.2985 	DATA 	Keypress: c
+683.4714 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/018a.tif'), ('gender', 'm')])
+683.5159 	EXP 	image_3: autoDraw = False
+683.5159 	EXP 	image_3: image = 'POFA/fMRI_POFA/018a.tif'
+683.5159 	EXP 	image_3: autoDraw = True
+684.1890 	DATA 	Keypress: b
+684.4236 	DATA 	Keypress: b
+686.4714 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/030a.tif'), ('gender', 'm')])
+686.5160 	EXP 	image_3: autoDraw = False
+686.5160 	EXP 	image_3: image = 'POFA/fMRI_POFA/030a.tif'
+686.5160 	EXP 	image_3: autoDraw = True
+687.1266 	DATA 	Keypress: b
+687.3924 	DATA 	Keypress: b
+689.4714 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/003a.tif'), ('gender', 'f')])
+689.5160 	EXP 	image_3: autoDraw = False
+689.5160 	EXP 	image_3: image = 'POFA/fMRI_POFA/003a.tif'
+689.5160 	EXP 	image_3: autoDraw = True
+690.2204 	DATA 	Keypress: c
+692.4714 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/069a.tif'), ('gender', 'f')])
+692.5161 	EXP 	image_3: autoDraw = False
+692.5161 	EXP 	image_3: image = 'POFA/fMRI_POFA/069a.tif'
+692.5161 	EXP 	image_3: autoDraw = True
+693.1892 	DATA 	Keypress: c
+695.4714 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/010a.tif'), ('gender', 'f')])
+695.5161 	EXP 	image_3: autoDraw = False
+695.5161 	EXP 	image_3: image = 'POFA/fMRI_POFA/010a.tif'
+695.5161 	EXP 	image_3: autoDraw = True
+696.2830 	DATA 	Keypress: c
+698.4714 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/061a.tif'), ('gender', 'f')])
+698.5161 	EXP 	image_3: autoDraw = False
+698.5161 	EXP 	image_3: image = 'POFA/fMRI_POFA/061a.tif'
+698.5161 	EXP 	image_3: autoDraw = True
+699.1580 	DATA 	Keypress: c
+701.4715 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/053a.tif'), ('gender', 'f')])
+701.5321 	EXP 	image_3: autoDraw = False
+701.5321 	EXP 	image_3: image = 'POFA/fMRI_POFA/053a.tif'
+701.5321 	EXP 	image_3: autoDraw = True
+702.1267 	DATA 	Keypress: c
+704.4716 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/025a.tif'), ('gender', 'm')])
+704.5119 	EXP 	image_3: autoDraw = False
+704.5119 	EXP 	image_3: image = 'POFA/fMRI_POFA/025a.tif'
+704.5119 	EXP 	image_3: autoDraw = True
+705.1893 	DATA 	Keypress: b
+705.4091 	DATA 	Keypress: b
+707.4715 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/038a.tif'), ('gender', 'm')])
+707.5162 	EXP 	image_3: autoDraw = False
+707.5162 	EXP 	image_3: image = 'POFA/fMRI_POFA/038a.tif'
+707.5162 	EXP 	image_3: autoDraw = True
+708.0331 	DATA 	Keypress: b
+708.2676 	DATA 	Keypress: b
+710.4879 	EXP 	Imported neutral.csv as conditions, 10 conditions, 2 params
+710.4889 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+710.4898 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/072a.tif'), ('gender', 'f')])
+710.5319 	EXP 	image_3: autoDraw = False
+710.5319 	EXP 	image_4: image = 'POFA/fMRI_POFA/072a.tif'
+710.5319 	EXP 	image_4: autoDraw = True
+711.1581 	DATA 	Keypress: c
+713.4720 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/056a.tif'), ('gender', 'f')])
+713.5163 	EXP 	image_4: autoDraw = False
+713.5163 	EXP 	image_4: image = 'POFA/fMRI_POFA/056a.tif'
+713.5163 	EXP 	image_4: autoDraw = True
+714.1894 	DATA 	Keypress: c
+716.4716 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/083a.tif'), ('gender', 'm')])
+716.5163 	EXP 	image_4: autoDraw = False
+716.5163 	EXP 	image_4: image = 'POFA/fMRI_POFA/083a.tif'
+716.5163 	EXP 	image_4: autoDraw = True
+717.1425 	DATA 	Keypress: b
+717.4249 	DATA 	Keypress: b
+719.4717 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033a.tif'), ('gender', 'm')])
+719.5164 	EXP 	image_4: autoDraw = False
+719.5164 	EXP 	image_4: image = 'POFA/fMRI_POFA/033a.tif'
+719.5164 	EXP 	image_4: autoDraw = True
+720.2677 	DATA 	Keypress: b
+720.5183 	DATA 	Keypress: b
+722.4717 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/041a.tif'), ('gender', 'm')])
+722.5164 	EXP 	image_4: autoDraw = False
+722.5164 	EXP 	image_4: image = 'POFA/fMRI_POFA/041a.tif'
+722.5164 	EXP 	image_4: autoDraw = True
+723.4248 	DATA 	Keypress: b
+723.7210 	DATA 	Keypress: b
+725.4718 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/013a.tif'), ('gender', 'f')])
+725.5327 	EXP 	image_4: autoDraw = False
+725.5327 	EXP 	image_4: image = 'POFA/fMRI_POFA/013a.tif'
+725.5327 	EXP 	image_4: autoDraw = True
+726.2364 	DATA 	Keypress: c
+728.4721 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/047a.tif'), ('gender', 'f')])
+728.5165 	EXP 	image_4: autoDraw = False
+728.5165 	EXP 	image_4: image = 'POFA/fMRI_POFA/047a.tif'
+728.5165 	EXP 	image_4: autoDraw = True
+729.2834 	DATA 	Keypress: c
+731.4718 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/028a.tif'), ('gender', 'm')])
+731.5165 	EXP 	image_4: autoDraw = False
+731.5165 	EXP 	image_4: image = 'POFA/fMRI_POFA/028a.tif'
+731.5165 	EXP 	image_4: autoDraw = True
+732.2053 	DATA 	Keypress: b
+732.4087 	DATA 	Keypress: b
+734.4719 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/021a.tif'), ('gender', 'm')])
+734.5167 	EXP 	image_4: autoDraw = False
+734.5167 	EXP 	image_4: image = 'POFA/fMRI_POFA/021a.tif'
+734.5167 	EXP 	image_4: autoDraw = True
+735.1742 	DATA 	Keypress: b
+735.3930 	DATA 	Keypress: b
+737.4719 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/006a.tif'), ('gender', 'f')])
+737.5166 	EXP 	image_4: autoDraw = False
+737.5166 	EXP 	image_4: image = 'POFA/fMRI_POFA/006a.tif'
+737.5166 	EXP 	image_4: autoDraw = True
+738.2365 	DATA 	Keypress: c
+740.4882 	EXP 	Imported scrambled.csv as conditions, 10 conditions, 2 params
+740.4891 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+740.4901 	EXP 	New trial (rep=0, index=0): OrderedDict([('stimulus', 'POFA/fMRI_POFA/006c.tif'), ('gender', 'f')])
+740.5127 	EXP 	image_4: autoDraw = False
+740.5127 	EXP 	image_5: image = 'POFA/fMRI_POFA/006c.tif'
+740.5127 	EXP 	image_5: autoDraw = True
+741.4709 	DATA 	Keypress: b
+741.6900 	DATA 	Keypress: b
+743.4724 	EXP 	New trial (rep=0, index=1): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033c.tif'), ('gender', 'm')])
+743.5166 	EXP 	image_5: autoDraw = False
+743.5166 	EXP 	image_5: image = 'POFA/fMRI_POFA/033c.tif'
+743.5166 	EXP 	image_5: autoDraw = True
+743.9710 	DATA 	Keypress: c
+746.4720 	EXP 	New trial (rep=0, index=2): OrderedDict([('stimulus', 'POFA/fMRI_POFA/013c.tif'), ('gender', 'f')])
+746.5167 	EXP 	image_5: autoDraw = False
+746.5167 	EXP 	image_5: image = 'POFA/fMRI_POFA/013c.tif'
+746.5167 	EXP 	image_5: autoDraw = True
+746.8929 	DATA 	Keypress: b
+747.1275 	DATA 	Keypress: b
+749.4721 	EXP 	New trial (rep=0, index=3): OrderedDict([('stimulus', 'POFA/fMRI_POFA/021c.tif'), ('gender', 'm')])
+749.5167 	EXP 	image_5: autoDraw = False
+749.5167 	EXP 	image_5: image = 'POFA/fMRI_POFA/021c.tif'
+749.5167 	EXP 	image_5: autoDraw = True
+749.9086 	DATA 	Keypress: c
+752.4720 	EXP 	New trial (rep=0, index=4): OrderedDict([('stimulus', 'POFA/fMRI_POFA/083c.tif'), ('gender', 'm')])
+752.5167 	EXP 	image_5: autoDraw = False
+752.5167 	EXP 	image_5: image = 'POFA/fMRI_POFA/083c.tif'
+752.5167 	EXP 	image_5: autoDraw = True
+752.8617 	DATA 	Keypress: b
+753.1128 	DATA 	Keypress: b
+755.4721 	EXP 	New trial (rep=0, index=5): OrderedDict([('stimulus', 'POFA/fMRI_POFA/072c.tif'), ('gender', 'f')])
+755.5171 	EXP 	image_5: autoDraw = False
+755.5171 	EXP 	image_5: image = 'POFA/fMRI_POFA/072c.tif'
+755.5171 	EXP 	image_5: autoDraw = True
+755.9242 	DATA 	Keypress: c
+758.4722 	EXP 	New trial (rep=0, index=6): OrderedDict([('stimulus', 'POFA/fMRI_POFA/013c.tif'), ('gender', 'f')])
+758.4994 	EXP 	image_5: autoDraw = False
+758.4994 	EXP 	image_5: image = 'POFA/fMRI_POFA/013c.tif'
+758.4994 	EXP 	image_5: autoDraw = True
+758.8774 	DATA 	Keypress: b
+759.0965 	DATA 	Keypress: b
+761.4722 	EXP 	New trial (rep=0, index=7): OrderedDict([('stimulus', 'POFA/fMRI_POFA/021c.tif'), ('gender', 'm')])
+761.5326 	EXP 	image_5: autoDraw = False
+761.5326 	EXP 	image_5: image = 'POFA/fMRI_POFA/021c.tif'
+761.5326 	EXP 	image_5: autoDraw = True
+761.8619 	DATA 	Keypress: c
+764.4722 	EXP 	New trial (rep=0, index=8): OrderedDict([('stimulus', 'POFA/fMRI_POFA/033c.tif'), ('gender', 'm')])
+764.5172 	EXP 	image_5: autoDraw = False
+764.5172 	EXP 	image_5: image = 'POFA/fMRI_POFA/033c.tif'
+764.5172 	EXP 	image_5: autoDraw = True
+764.8931 	DATA 	Keypress: b
+765.1275 	DATA 	Keypress: b
+767.4722 	EXP 	New trial (rep=0, index=9): OrderedDict([('stimulus', 'POFA/fMRI_POFA/006c.tif'), ('gender', 'f')])
+767.5127 	EXP 	image_5: autoDraw = False
+767.5127 	EXP 	image_5: image = 'POFA/fMRI_POFA/006c.tif'
+767.5127 	EXP 	image_5: autoDraw = True
+767.9088 	DATA 	Keypress: c
+770.4871 	EXP 	Imported blank.csv as conditions, 10 conditions, 2 params
+770.4876 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+770.4882 	EXP 	New trial (rep=0, index=0): OrderedDict([('x', 0.4), ('y', -0.2)])
+770.5016 	EXP 	image_5: autoDraw = False
+770.5016 	EXP 	polygon: pos = array([ 0.4, -0.2])
+770.5016 	EXP 	polygon: autoDraw = True
+771.2683 	DATA 	Keypress: b
+771.5027 	DATA 	Keypress: b
+773.4727 	EXP 	New trial (rep=0, index=1): OrderedDict([('x', 0.4), ('y', 0.4)])
+773.4864 	EXP 	polygon: autoDraw = False
+773.4864 	EXP 	polygon: pos = array([0.4, 0.4])
+773.4864 	EXP 	polygon: autoDraw = True
+773.8932 	DATA 	Keypress: c
+776.4724 	EXP 	New trial (rep=0, index=2): OrderedDict([('x', -0.4), ('y', 0.0)])
+776.4864 	EXP 	polygon: autoDraw = False
+776.4864 	EXP 	polygon: pos = array([-0.4,  0. ])
+776.4864 	EXP 	polygon: autoDraw = True
+777.1902 	DATA 	Keypress: b
+777.4401 	DATA 	Keypress: b
+779.4724 	EXP 	New trial (rep=0, index=3): OrderedDict([('x', 0.2), ('y', 0.0)])
+779.4864 	EXP 	polygon: autoDraw = False
+779.4864 	EXP 	polygon: pos = array([0.2, 0. ])
+779.4864 	EXP 	polygon: autoDraw = True
+779.8464 	DATA 	Keypress: c
+782.4725 	EXP 	New trial (rep=0, index=4): OrderedDict([('x', -0.2), ('y', -0.4)])
+782.4864 	EXP 	polygon: autoDraw = False
+782.4864 	EXP 	polygon: pos = array([-0.2, -0.4])
+782.4864 	EXP 	polygon: autoDraw = True
+782.7996 	DATA 	Keypress: b
+783.0184 	DATA 	Keypress: b
+785.4726 	EXP 	New trial (rep=0, index=5): OrderedDict([('x', -0.4), ('y', 0.2)])
+785.4865 	EXP 	polygon: autoDraw = False
+785.4865 	EXP 	polygon: pos = array([-0.4,  0.2])
+785.4865 	EXP 	polygon: autoDraw = True
+786.0497 	DATA 	Keypress: c
+788.4725 	EXP 	New trial (rep=0, index=6): OrderedDict([('x', 0.0), ('y', 0.4)])
+788.4865 	EXP 	polygon: autoDraw = False
+788.4865 	EXP 	polygon: pos = array([0. , 0.4])
+788.4865 	EXP 	polygon: autoDraw = True
+788.8008 	DATA 	Keypress: b
+789.0185 	DATA 	Keypress: b
+791.4725 	EXP 	New trial (rep=0, index=7): OrderedDict([('x', 0.0), ('y', 0.2)])
+791.4865 	EXP 	polygon: autoDraw = False
+791.4865 	EXP 	polygon: pos = array([0. , 0.2])
+791.4865 	EXP 	polygon: autoDraw = True
+791.8935 	DATA 	Keypress: c
+794.4726 	EXP 	New trial (rep=0, index=8): OrderedDict([('x', 0.2), ('y', -0.4)])
+794.4866 	EXP 	polygon: autoDraw = False
+794.4866 	EXP 	polygon: pos = array([ 0.2, -0.4])
+794.4866 	EXP 	polygon: autoDraw = True
+794.9872 	DATA 	Keypress: b
+795.2061 	DATA 	Keypress: b
+797.4726 	EXP 	New trial (rep=0, index=9): OrderedDict([('x', -0.2), ('y', -0.2)])
+797.4866 	EXP 	polygon: autoDraw = False
+797.4866 	EXP 	polygon: pos = array([-0.2, -0.2])
+797.4866 	EXP 	polygon: autoDraw = True
+797.8466 	DATA 	Keypress: c
+800.4866 	EXP 	polygon: autoDraw = False
+800.4866 	EXP 	polygon_2: autoDraw = True
+801.4090 	DATA 	Keypress: b
+801.6439 	DATA 	Keypress: b
+810.8541 	EXP 	window1: mouseVisible = True
