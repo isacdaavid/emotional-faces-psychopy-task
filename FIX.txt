@@ -1,0 +1,2 @@
+- ¿por qué genera archivos *netral_2.csv? confunde a task_performance.R, checar emofaces1
+- ¿por qué la corrida 1 guarda archivos *emofaces* en lugar de *emofaces1*? confunde a task_performance.R
